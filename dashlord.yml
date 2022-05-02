@@ -412,3 +412,8 @@ urls:
     repositories:
       - betagouv/collectif-objets
     betaId: collectif_objets
+  - url: https://rdv-insertion.fr/
+    category: startup
+    repositories:
+      - betagouv/rdv-insertion
+    betaId: data.insertion
