@@ -412,8 +412,14 @@ urls:
     repositories:
       - betagouv/collectif-objets
     betaId: collectif_objets
-  - url: https://rdv-insertion.fr/
+  - url: https://rdv-insertion.fr
     category: startup
     repositories:
       - betagouv/rdv-insertion
     betaId: data.insertion
+  - url: https://metiers.numerique.gouv.fr
+    category: startup
+    betaId: metiers-numeriques
+    repositories:
+      - betagouv/metiers-numeriques
+      - betagouv/metiers-numeriques-pep
